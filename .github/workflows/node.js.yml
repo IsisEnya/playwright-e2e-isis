@@ -40,4 +40,4 @@ jobs:
         uses: SonarSource/sonarqube-scan-action@v6.0.0    
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+          SONAR_TOKEN: ${{ ce164696403a5a4b840063a5c83bd80abfe4f440 }}
