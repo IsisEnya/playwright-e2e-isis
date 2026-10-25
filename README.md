@@ -38,4 +38,4 @@ To use the AI ​​feature with ZeroStep, you must create the `zerostep.config.
     </li>
 </ul>
 
-oi
+oii
