@@ -1,9 +1,9 @@
 application:
   base_url: "https://google.com"
   automationpractice_QA: "http://www.automationpractice.pl/index.php"  
-  bugereats_QA: "https://buger-eats.vercel.app/" 
+  bugereats_QA: "https://buger-eats.vercel.app" 
   sauceDemo: "https://www.saucedemo.com/"
   farmacia: "https://triersistemas.com.br/contato"
   empresa: "https://www.betha.com.br/contato"
-  wiki: "https://pt.wikipedia.org/wiki/O_Senhor_dos_An%C3%A9is"
+  booking: "https://www.booking.com/"
   
